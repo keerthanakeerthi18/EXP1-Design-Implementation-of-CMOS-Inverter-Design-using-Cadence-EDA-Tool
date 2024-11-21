@@ -1,13 +1,18 @@
-Ex No: 01     Design & Implementation of CMOS Inverter Design Using Cadence EDA Tools   
+# Ex No: 01     Design & Implementation of CMOS Inverter Design Using Cadence EDA Tools   
 
-Aim:
+### Aim:
 To design and implement a CMOS inverter circuit using Cadence EDA tools, analyse its electrical characteristics, and understand the fundamental principles of CMOS technology, including the design process, layout, and simulation techniques.
 
-Tools Required:
+### Tools Required:
 •	Personal Computer
 •	Cadence Virtuoso Software
 
-S C H E M A T I C S I M U L A T I O N - PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
+### Circuit Diagram:
+![WhatsApp Image 2024-11-21 at 12 29 49 PM](https://github.com/user-attachments/assets/360d563b-686d-407b-b224-cb1bc69cd333)
+
+
+### Schematic  Simulation:
+PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
 
 1.	Right Click and open the terminal window
 2.	Type the following commands as follows and press enter.
@@ -83,7 +88,7 @@ iv)	Creating the new test cell view
 
 
  
-Analog simulation by SPECTRE.
+### Analog simulation by SPECTRE.
 •	In test cell view window
 •	Launch – ADE L(Analog Design Environment)
 	Execute Setup—Simulation/directory/Host A new window opens
@@ -96,7 +101,7 @@ Analog simulation by SPECTRE.
  ![Screenshot 2024-09-25 144338](https://github.com/user-attachments/assets/71d4196f-ddd0-4c7a-9cfe-0d96c41ce9ca)
 
 
-For Transient Analysis Settings and Output
+### For Transient Analysis Settings and Output
  
  
  ![Screenshot 2024-09-25 143810](https://github.com/user-attachments/assets/124c3100-f9b1-44d7-a346-c0c69dba6ae8)
@@ -105,7 +110,7 @@ For Transient Analysis Settings and Output
  ![Screenshot 2024-09-25 144031](https://github.com/user-attachments/assets/c7379452-6070-49ea-9fbf-741a6d7fb525)
 
 
- For DC Analysis Settings and Output
+ ### For DC Analysis Settings and Output
 ![Screenshot 2024-09-25 144359](https://github.com/user-attachments/assets/84e79215-1117-4861-b578-50c100ac61c5)
 
 
